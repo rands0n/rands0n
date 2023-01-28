@@ -6,10 +6,10 @@
 
 ## Find me elsewhere 🌎
 
-🚀 [Site](https://rands0n.com) <br /> 
-🐦 [Twitter](https://twitter.com/rands0n) <br />
-📸 [Instagram](https://instagram.com/rands0n) <br />
-💼 [LinkedIn](htpps://linkedin.com/in/rands0n)
+🚀 [Site](https://rands0n.com) <br>
+🐦 [Twitter](https://twitter.com/rands0n) <br>
+📸 [Instagram](https://instagram.com/rands0n) <br>
+💼 [Linkedin](https://linkedin.com/in/rands0n)
 
 --
 
