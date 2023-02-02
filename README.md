@@ -4,6 +4,10 @@
 🇧🇷 Born in Porto Velho, Brazil <br />
 🇵🇹 Living in Porto, Portugal <br />
 
+## Projects
+
+* 🥇 [Wariva](https://github.com/wariva/wariva) - A async communication platform for you and your team.
+
 ## Find me elsewhere 🌎
 
 🚀 [Site](https://rands0n.com) <br>
