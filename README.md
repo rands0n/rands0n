@@ -6,7 +6,7 @@
 
 ## Projects
 
-🥇 [Wariva](https://github.com/wariva/wariva) - A async communication platform for you and your team.
+🥇 [Wariva](https://github.com/wariva/wariva) -  Simple, delightfully, and open-source async messaging app. 
 
 ## Find me elsewhere 🌎
 
