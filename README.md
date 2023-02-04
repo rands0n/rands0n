@@ -4,10 +4,6 @@
 🇧🇷 Born in Porto Velho, Brazil <br />
 🇵🇹 Living in Porto, Portugal <br />
 
-## Projects
-
-🥇 [Wariva](https://github.com/wariva/wariva) -  Simple, delightfully, and open-source async messaging app. 
-
 ## Find me elsewhere 🌎
 
 🚀 [Site](https://rands0n.com) <br>
