@@ -2,7 +2,7 @@
 
 🤓 Senior Elixir Software Engineer at [Brev](https://brev.app) <br />
 🇧🇷 Born in Porto Velho, Brazil <br />
-🇵🇹 Living in Porto, Portugal <br />
+🇧🇷 Living in São Paulo, Brazil <br />
 
 ## Find me elsewhere 🌎
 
