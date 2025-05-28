@@ -1,7 +1,6 @@
 # Hi, I'm **Randson** 👋
 
-🤓 Senior Elixir Software Engineer at [Brev](https://brev.app) <br />
-🇧🇷 Born in Porto Velho, Brazil <br />
+🤓 Co-Founder at [Brev](https://brev.pro) <br />
 🇧🇷 Living in São Paulo, Brazil <br />
 
 ## Find me elsewhere 🌎
