@@ -1,0 +1,19 @@
+{
+  "name": "rands0n",
+  "version": "1.0.0",
+  "description": "🤓 Co-Founder at [Brev](https://brev.pro) <br /> 🇧🇷 Living in São Paulo, Brazil <br />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css:build": "tailwindcss -i _tailwind/input.css -o assets/css/tailwind.css --minify",
+    "css:watch": "tailwindcss -i _tailwind/input.css -o assets/css/tailwind.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.5",
+    "tailwindcss": "^4.3.5"
+  },
+  "private": "true"
+}
