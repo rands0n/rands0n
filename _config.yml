@@ -1,4 +1,6 @@
 title: Randson
+email: orandson@gmail.com
+
 exclude:
   - README.md
   - Gemfile
