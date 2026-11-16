@@ -1,12 +1,23 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+    <link
+      rel="icon"
+      href="{{ '/assets/favicon.ico' | relative_url }}"
+    />
+
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/tailwind.css' | relative_url }}"
+    />
+
+    <script defer src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <script defer src="{{ '/assets/vendor/alpine.min.js' | relative_url }}"></script>
   </head>
-  <body>
+  <body x-data class="h-screen flex items-center justify-center font-sans">
     {{ content }}
   </body>
 </html>

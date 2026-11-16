@@ -1,6 +1,12 @@
 title: Randson
+email: orandson@gmail.com
+
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
   - vendor
+  - node_modules
+  - package.json
+  - package-lock.json
+  - _tailwind

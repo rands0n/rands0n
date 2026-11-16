@@ -1,0 +1,21 @@
+{
+  "name": "rands0n",
+  "version": "1.0.0",
+  "description": "🤓 Co-Founder at [Inlup](https://inlup.com) <br /> 🇧🇷 Living in São Paulo, Brazil <br />",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css:build": "tailwindcss -i _tailwind/input.css -o assets/css/tailwind.css --minify",
+    "css:watch": "tailwindcss -i _tailwind/input.css -o assets/css/tailwind.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.5",
+    "alpinejs": "^3.17.5",
+    "tailwindcss": "^4.3.5"
+  },
+  "devDependencies": {}
+}
